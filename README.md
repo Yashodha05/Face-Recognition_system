@@ -15,6 +15,7 @@ The face recognition model (`k1.h5`) was trained using Google Teachable Machine,
      - Individual 1
      - Individual 2
    - The training process used a convolutional neural network (CNN) architecture for feature extraction and classification.
+     
 
 3. **Output**:
    - The trained model was exported as `keras.h5`, a Keras-compatible file format.
@@ -55,9 +56,15 @@ pip install -r requirements.txt
 
 **Installation Guide**
 
+
 Step 1: Clone the Repository
 git clone https://github.com/your-username/internship-projects.git
 cd internship-projects
+
+## How to Use This Project
+1. Download the ZIP file.
+2. Extract the contents.
+3. Follow these instructions to run the project.
 
 **Step 2: Install Dependencies**
 pip install -r requirements.txt
