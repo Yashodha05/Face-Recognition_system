@@ -49,15 +49,14 @@ The face recognition model (`k1.h5`) was trained using Google Teachable Machine,
 - **TensorFlow**: For loading and using the pre-trained model.
 - **OpenCV**: For capturing webcam images in real time.
 - **NumPy**: For handling image data as arrays.
-
-Install these dependencies via the provided `requirements.txt` file:
-```bash
+  
+- **Install these dependencies via the provided `requirements.txt` file:**
+- ```bash
 pip install -r requirements.txt
 
-**Installation Guide**
+- **Installation Guide:**
 
-
-Step 1: Clone the Repository
+**Step 1: Clone the Repository**
 git clone https://github.com/your-username/internship-projects.git
 cd internship-projects
 
@@ -65,6 +64,10 @@ cd internship-projects
 1. Download the ZIP file.
 2. Extract the contents.
 3. Follow these instructions to run the project.
+
+**Google Teachable Machine**
+1.Search for Google teachable machine
+![Screenshot (20)](https://github.com/user-attachments/assets/6828381b-0160-4959-93e8-a6cbbf42d98a)
 
 **Step 2: Install Dependencies**
 pip install -r requirements.txt
@@ -90,8 +93,6 @@ Contains the names of the classes.
 
 **Contact**
 If you have any questions or suggestions, feel free to reach out via GitHub issues.
-
-
 ---
 
 ### **How to Use This README**
@@ -101,5 +102,6 @@ If you have any questions or suggestions, feel free to reach out via GitHub issu
 3. Save the file and upload it to your repository.
 
 This README provides a comprehensive explanation of your project and will be helpful for beginners or anyone interested in using or extending your work. Let me know if you need further tweaks!
-
+**
+  
 
