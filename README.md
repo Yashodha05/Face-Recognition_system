@@ -4,7 +4,7 @@ This project implements a real-time face recognition system using a pre-trained 
 
 ## **About the Model**
 
-The face recognition model (k1.h5) was trained using Google Teachable Machine, a user-friendly platform for creating machine learning models without deep technical expertise. Here’s how the model was created and used:
+The face recognition model (keras.h5) was trained using Google Teachable Machine, a user-friendly platform for creating machine learning models without deep technical expertise. Here’s how the model was created and used:
 
 1. **Data Collection**:
    - Images of 2 individuals  were captured and uploaded to Google Teachable Machine.
