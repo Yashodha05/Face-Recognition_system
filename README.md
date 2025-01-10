@@ -26,10 +26,6 @@ The face recognition model (`k1.h5`) was trained using Google Teachable Machine,
 - **Confidence Score**: Displays the confidence percentage of the prediction for each class.
 - **User-Friendly**: Designed to be accessible for beginners in machine learning and computer vision.
 
-![5](https://github.com/user-attachments/assets/30fccf8c-8c10-4bb7-9a06-214beb0a6e65) ------ <img width="290" height="300" alt="image" src="https://github.com/user-attachments/assets/a3f7a2fd-c85f-488b-be45-f94503f9c323" />
-
-Input                                                                                         Output
-
 
 ## **How It Works**
 
