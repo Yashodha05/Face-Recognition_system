@@ -66,8 +66,14 @@ cd internship-projects
 3. Follow these instructions to run the project.
 
 **Google Teachable Machine**
+
 1.Search for Google teachable machine
+
 ![Screenshot (20)](https://github.com/user-attachments/assets/6828381b-0160-4959-93e8-a6cbbf42d98a)
+2. click on the particular link.
+
+![Screenshot (21)](https://github.com/user-attachments/assets/c3e1fcdd-12f4-46e6-beb6-e9e88c2540d8)
+
 
 **Step 2: Install Dependencies**
 pip install -r requirements.txt
