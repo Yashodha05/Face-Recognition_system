@@ -61,7 +61,7 @@ cd Face-Recognition_system
 
 **Step 2: Install Dependencies**
 
-Make sure Python is installed on your system. To install the required Python libraries, run:
+Make sure Python is installed on your system. To install the required Python libraries, open the python terminal and run:
 
 pip install -r requirements.txt
 
@@ -70,7 +70,7 @@ pip install -r requirements.txt
 **1.Download the Required Files:**
 
 Clone the repository as explained above.
-Ensure you have the k1.h5 model and labels1.txt files in the project directory.
+Ensure you have the keras.h5 model and labels.txt files in the project directory.
 
 **2.Set Up Google Teachable Machine:**
 
