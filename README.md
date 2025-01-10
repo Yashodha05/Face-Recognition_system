@@ -83,7 +83,7 @@ Model File: k1.h5
 
 Format: TensorFlow's Keras model.
 Input Dimensions: (224, 224, 3) (Height, Width, RGB Channels).
-Classes: 5 (4 individuals + 1 unknown).
+Classes: 2  individuals .
 Labels File: labels1.txt
 
 Contains the names of the classes.
