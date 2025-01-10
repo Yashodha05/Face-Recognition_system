@@ -73,7 +73,13 @@ cd internship-projects
 2. click on the particular link.
 
 ![Screenshot (21)](https://github.com/user-attachments/assets/c3e1fcdd-12f4-46e6-beb6-e9e88c2540d8)
+3. Select new Image Project.
 
+![Screenshot (22)](https://github.com/user-attachments/assets/c92d6321-aebe-4fcd-ad2f-f3109661f336)
+4. Add samples and train the model.
+
+![Screenshot (23)](https://github.com/user-attachments/assets/7437bcd4-3d88-4daa-ae33-d69b1922f314)
+5.Export and Download the model for further operartions.
 
 **Step 2: Install Dependencies**
 pip install -r requirements.txt
@@ -86,6 +92,10 @@ Copy code
 python main.py
 The webcam feed will open in a new window. The predicted class and confidence score will appear in the terminal.
 Press the Esc key to exit.
+
+**Output of the model**
+
+![Screenshot (6)](https://github.com/user-attachments/assets/1e2347e8-d6db-4d36-b60d-96c04813c7b0)
 
 **Model Details**
 Model File: k1.h5
