@@ -26,6 +26,11 @@ The face recognition model (`k1.h5`) was trained using Google Teachable Machine,
 - **Confidence Score**: Displays the confidence percentage of the prediction for each class.
 - **User-Friendly**: Designed to be accessible for beginners in machine learning and computer vision.
 
+![5](https://github.com/user-attachments/assets/30fccf8c-8c10-4bb7-9a06-214beb0a6e65) ------ <img width="290" alt="image" src="https://github.com/user-attachments/assets/a3f7a2fd-c85f-488b-be45-f94503f9c323" />
+
+Input
+
+
 ## **How It Works**
 
 1. **Input Data**:
@@ -52,7 +57,7 @@ The face recognition model (`k1.h5`) was trained using Google Teachable Machine,
   
 - **Install these dependencies via the provided `requirements.txt` file:**
 - ```bash
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 - **Installation Guide:**
 
@@ -61,10 +66,7 @@ git clone https://github.com/your-username/internship-projects.git
 cd internship-projects
 
 ## How to Use This Project
-1. Download the ZIP file.
-2. Extract the contents.
-3. Follow these instructions to run the project.
-
+1.Download all the requirements
 **Google Teachable Machine**
 
 1.Search for Google teachable machine
