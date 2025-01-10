@@ -62,6 +62,7 @@ cd internship-projects
 **Step 2: Install Dependencies**
 
 Make sure Python is installed on your system. To install the required Python libraries, run:
+
 pip install -r requirements.txt
 
 **## How to Use This Project**
