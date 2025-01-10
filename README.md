@@ -56,8 +56,8 @@ The face recognition model (k1.h5) was trained using Google Teachable Machine, a
 
 **Step 1: Clone the Repository**
 
-git clone https://github.com/your-username/internship-projects.git
-cd internship-projects
+git clone https://github.com/your-username/Face-Recognition_system.git
+cd Face-Recognition_system
 
 **Step 2: Install Dependencies**
 
@@ -166,7 +166,7 @@ If you have any questions or suggestions, feel free to reach out via GitHub issu
 ### **How to Use This README**
 
 1. Copy the above content into your `README.md` file.
-2. Replace `https://github.com/your-username/internship-projects.git` with the actual link to your GitHub repository.
+2. Replace `https://github.com/your-username/Face-Recognition_system.git` with the actual link to your GitHub repository.
 3. Save the file and upload it to your repository.
 
 This README provides a comprehensive explanation of your project and will be helpful for beginners or anyone interested in using or extending your work. Let me know if you need further tweaks!
