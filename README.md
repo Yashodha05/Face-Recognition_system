@@ -57,6 +57,9 @@ The face recognition model (keras.h5) was trained using Google Teachable Machine
 **Step 1: Clone the Repository**
 
 git clone https://github.com/your-username/Face-Recognition_system.git
+
+Navigate to the project directory:
+
 cd Face-Recognition_system
 
 **Step 2: Install Dependencies**
