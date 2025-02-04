@@ -123,8 +123,7 @@ The webcam feed will open in a new window. The predicted class and confidence sc
 
 Press the Esc key to exit.
 
-<img width="956" alt="image" src="https://github.com/user-attachments/assets/1f668b05-5983-4707-a7d6-c83d52e4a6bd" />
-
+<img width="598" alt="image" src="https://github.com/user-attachments/assets/328c4b53-ff26-405a-b7bc-dd679950a066" />
 
 **Output of the model**
 
