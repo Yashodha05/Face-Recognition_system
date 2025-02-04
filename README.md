@@ -91,7 +91,7 @@ Ensure you have the keras.h5 model and labels.txt files in the project directory
 
 4. Add samples for each class (e.g., Individual 1 and Individual 2).
 
-![Screenshot (23)](https://github.com/user-attachments/assets/7437bcd4-3d88-4daa-ae33-d69b1922f314)
+![WhatsApp Image 2025-02-04 at 3 48 20 PM](https://github.com/user-attachments/assets/f9ce7e92-9a74-4938-8cf6-b4feeede0af6)
 
 5.Train the model and Export the trained model as a .h5 file.
 
