@@ -110,7 +110,7 @@ pip install -r requirements.txt
 
 Ensure your webcam is connected.
 
-<img width="197" alt="image" src="https://github.com/user-attachments/assets/9930948c-f5d1-4073-9e9d-3e1a5a32c85a" />
+<img width="138" alt="image" src="https://github.com/user-attachments/assets/205c64c5-a269-4b95-b160-e9c1d29b38c1" />
 
 Execute the Python script:
 bash
